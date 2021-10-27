@@ -3,6 +3,7 @@
 //
 
 #include "aes_128.h"
+#include <string.h>
 
 #define BLOCKSIZE 16
 

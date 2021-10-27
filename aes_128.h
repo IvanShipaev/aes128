@@ -2,6 +2,7 @@
 #define	_AES_128_H_
 
 #include "aes_128_conf.h"
+#include <stdint.h>
 
 typedef struct aes_ctr_t {
 	uint8_t key[16];
